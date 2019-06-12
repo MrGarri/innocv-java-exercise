@@ -1,2 +1,3 @@
 # innocv-java-exercise
-Java exercise for InnoCV
+
+Simple CRUD API for InnoCV as a Java exercise.
